@@ -1,5 +1,5 @@
-# MarcWeather v0.1
-# Settings
+# Marc Weather v0.1
+# Change this file if you want to configure it. The comments will help you to configure Marc Weather.
 import datetime as dt
 import requests
 # Don't change the 2 settings
@@ -50,6 +50,6 @@ elif MainMenu == '2':
     Uses weather data from OpenWeather""")
 elif MainMenu == '3':
     exit()
-# end of MarcWeather
+# End of Marc Weather
 # Info:
-# MarcWeather v0.1 Initial Release
+# Marc Weather v0.1 Initial Release
